@@ -32,3 +32,4 @@
 - 2025-10-05: Document cache layers
 - 2026-03-09: Improve api contracts coverage
 - 2026-11-25: Add release notes notes
+- 2026-12-22: Expand monorepo layout docs
