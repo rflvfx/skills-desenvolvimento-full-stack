@@ -161,3 +161,4 @@
 - 2025-12-25: Add remark
 - 2026-05-03: Small fix
 - 2026-12-19: Small fix
+- 2026-12-21: Improve docs
