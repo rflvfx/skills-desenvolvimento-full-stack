@@ -58,3 +58,4 @@
 - 2015-12-03: Clarify section
 - 2015-10-05: Add note
 - 2015-09-19: Minor update
+- 2015-01-04: Update guide
