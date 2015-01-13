@@ -60,3 +60,4 @@
 - 2015-09-19: Minor update
 - 2015-01-04: Update guide
 - 2015-01-16: Small fix
+- 2015-01-13: Adjust content
