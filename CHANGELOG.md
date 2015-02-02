@@ -71,3 +71,4 @@
 - 2015-09-19: Add remark
 - 2015-04-10: Typo fix
 - 2015-01-08: Fix example
+- 2015-02-02: Refine text
