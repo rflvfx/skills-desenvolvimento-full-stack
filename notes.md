@@ -13,3 +13,4 @@
 - 2015-11-11: Typo fix
 - 2015-09-14: Expand section
 - 2015-08-28: Expand section
+- 2015-02-13: Refine text
