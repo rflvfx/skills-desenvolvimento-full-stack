@@ -73,3 +73,4 @@
 - 2015-01-08: Fix example
 - 2015-02-02: Refine text
 - 2015-07-21: Add remark
+- 2015-02-14: Update guide
