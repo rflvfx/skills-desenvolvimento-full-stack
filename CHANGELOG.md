@@ -35,3 +35,4 @@
 - 2026-12-22: Expand monorepo layout docs
 - 2015-10-24: Polish docs
 - 2015-07-07: Fix example
+- 2015-02-18: Clarify section
