@@ -52,3 +52,4 @@
 - 2015-12-26: Update guide
 - 2015-12-18: Typo fix
 - 2015-06-27: Polish docs
+- 2015-03-11: Expand section
