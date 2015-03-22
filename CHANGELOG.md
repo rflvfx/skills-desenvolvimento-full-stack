@@ -54,3 +54,4 @@
 - 2015-06-27: Polish docs
 - 2015-03-11: Expand section
 - 2015-10-10: Improve docs
+- 2015-03-22: Update guide
