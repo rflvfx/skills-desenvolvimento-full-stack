@@ -41,3 +41,4 @@
 - 2015-05-25: Update guide
 - 2015-03-26: Minor update
 - 2015-04-01: Review content
+- 2015-03-25: Update notes
