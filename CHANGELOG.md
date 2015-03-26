@@ -39,3 +39,4 @@
 - 2015-04-22: Add remark
 - 2015-06-07: Add detail
 - 2015-05-25: Update guide
+- 2015-03-26: Minor update
