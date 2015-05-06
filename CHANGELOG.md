@@ -66,3 +66,4 @@
 - 2015-09-08: Expand section
 - 2015-02-13: Update guide
 - 2015-01-24: Polish docs
+- 2015-05-06: Add note
