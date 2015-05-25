@@ -38,3 +38,4 @@
 - 2015-02-18: Clarify section
 - 2015-04-22: Add remark
 - 2015-06-07: Add detail
+- 2015-05-25: Update guide
