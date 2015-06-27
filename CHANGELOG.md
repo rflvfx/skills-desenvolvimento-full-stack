@@ -51,3 +51,4 @@
 - 2015-02-17: Review content
 - 2015-12-26: Update guide
 - 2015-12-18: Typo fix
+- 2015-06-27: Polish docs
