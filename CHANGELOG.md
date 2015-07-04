@@ -46,3 +46,4 @@
 - 2015-07-05: Add note
 - 2015-09-11: Minor update
 - 2015-10-14: Add remark
+- 2015-07-04: Polish docs
