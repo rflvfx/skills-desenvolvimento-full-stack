@@ -63,3 +63,4 @@
 - 2015-01-13: Adjust content
 - 2015-05-01: Update guide
 - 2015-11-24: Update guide
+- 2015-09-08: Expand section
