@@ -44,3 +44,4 @@
 - 2015-03-25: Update notes
 - 2015-01-02: Adjust content
 - 2015-07-05: Add note
+- 2015-09-11: Minor update
