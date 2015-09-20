@@ -7,3 +7,4 @@
 - 2015-08-23: Clarify section
 - 2015-10-23: Adjust content
 - 2015-10-23: Add remark
+- 2015-09-20: Expand section
