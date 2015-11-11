@@ -10,3 +10,4 @@
 - 2015-09-20: Expand section
 - 2015-11-11: Polish docs
 - 2015-06-28: Review content
+- 2015-11-11: Typo fix
