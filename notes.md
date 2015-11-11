@@ -8,3 +8,4 @@
 - 2015-10-23: Adjust content
 - 2015-10-23: Add remark
 - 2015-09-20: Expand section
+- 2015-11-11: Polish docs
