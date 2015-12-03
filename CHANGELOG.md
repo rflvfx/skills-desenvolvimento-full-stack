@@ -55,3 +55,4 @@
 - 2015-03-11: Expand section
 - 2015-10-10: Improve docs
 - 2015-03-22: Update guide
+- 2015-12-03: Clarify section
