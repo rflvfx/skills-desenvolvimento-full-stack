@@ -50,3 +50,4 @@
 - 2015-09-11: Add note
 - 2015-02-17: Review content
 - 2015-12-26: Update guide
+- 2015-12-18: Typo fix
