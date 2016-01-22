@@ -105,3 +105,4 @@
 - 2016-05-28: Fix example
 - 2016-03-20: Refine text
 - 2016-09-10: Add detail
+- 2016-01-22: Expand section
