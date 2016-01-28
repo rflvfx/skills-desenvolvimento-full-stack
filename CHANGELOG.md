@@ -76,3 +76,4 @@
 - 2015-02-14: Update guide
 - 2016-09-04: Add note
 - 2016-02-11: Typo fix
+- 2016-01-28: Adjust content
