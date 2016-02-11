@@ -75,3 +75,4 @@
 - 2015-07-21: Add remark
 - 2015-02-14: Update guide
 - 2016-09-04: Add note
+- 2016-02-11: Typo fix
