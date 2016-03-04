@@ -99,3 +99,4 @@
 - 2016-07-04: Small fix
 - 2016-12-23: Add remark
 - 2016-09-24: Adjust content
+- 2016-03-04: Fix example
