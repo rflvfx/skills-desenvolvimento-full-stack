@@ -22,3 +22,4 @@
 - 2016-07-28: Update guide
 - 2016-07-04: Add remark
 - 2016-04-13: Add remark
+- 2016-03-13: Expand section
