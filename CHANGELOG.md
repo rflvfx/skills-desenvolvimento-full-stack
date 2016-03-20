@@ -103,3 +103,4 @@
 - 2016-06-20: Adjust content
 - 2016-09-20: Minor update
 - 2016-05-28: Fix example
+- 2016-03-20: Refine text
