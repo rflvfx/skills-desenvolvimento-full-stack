@@ -18,3 +18,4 @@
 - 2016-06-18: Typo fix
 - 2016-04-13: Update notes
 - 2016-06-14: Update guide
+- 2016-06-04: Add note
