@@ -113,3 +113,4 @@
 - 2016-10-05: Polish docs
 - 2016-08-06: Adjust content
 - 2016-02-16: Improve docs
+- 2016-06-27: Typo fix
