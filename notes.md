@@ -20,3 +20,4 @@
 - 2016-06-14: Update guide
 - 2016-06-04: Add note
 - 2016-07-28: Update guide
+- 2016-07-04: Add remark
