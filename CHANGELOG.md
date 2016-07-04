@@ -96,3 +96,4 @@
 - 2016-08-15: Expand section
 - 2016-07-08: Update guide
 - 2016-09-09: Typo fix
+- 2016-07-04: Small fix
