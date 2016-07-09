@@ -91,3 +91,4 @@
 - 2016-08-15: Clarify section
 - 2016-07-03: Polish docs
 - 2016-06-19: Polish docs
+- 2016-07-09: Update notes
