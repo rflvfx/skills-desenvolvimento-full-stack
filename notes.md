@@ -23,3 +23,4 @@
 - 2016-07-04: Add remark
 - 2016-04-13: Add remark
 - 2016-03-13: Expand section
+- 2016-08-21: Improve docs
