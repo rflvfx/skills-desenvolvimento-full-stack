@@ -5,3 +5,4 @@
 - 2015-09-15: Expand request tracing docs
 - 2016-01-13: Refine session strategy guide
 - 2016-08-28: Review csrf defense section
+- 2016-09-03: Update file uploads reference
