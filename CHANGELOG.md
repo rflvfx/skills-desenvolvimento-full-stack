@@ -98,3 +98,4 @@
 - 2016-09-09: Typo fix
 - 2016-07-04: Small fix
 - 2016-12-23: Add remark
+- 2016-09-24: Adjust content
