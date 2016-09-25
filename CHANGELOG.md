@@ -6,3 +6,4 @@
 - 2016-01-13: Refine session strategy guide
 - 2016-08-28: Review csrf defense section
 - 2016-09-03: Update file uploads reference
+- 2016-09-25: Add background jobs notes
