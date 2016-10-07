@@ -85,3 +85,4 @@
 - 2016-08-25: Minor update
 - 2016-10-16: Typo fix
 - 2016-11-20: Fix example
+- 2016-10-07: Update notes
