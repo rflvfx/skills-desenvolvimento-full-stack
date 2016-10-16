@@ -83,3 +83,4 @@
 - 2016-10-26: Expand section
 - 2016-08-21: Polish docs
 - 2016-08-25: Minor update
+- 2016-10-16: Typo fix
