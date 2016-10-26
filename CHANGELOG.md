@@ -80,3 +80,4 @@
 - 2016-05-03: Review content
 - 2016-08-06: Add remark
 - 2016-12-08: Adjust content
+- 2016-10-26: Expand section
