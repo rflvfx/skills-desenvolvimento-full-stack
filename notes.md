@@ -26,3 +26,4 @@
 - 2016-08-21: Improve docs
 - 2016-02-17: Expand section
 - 2016-12-15: Update notes
+- 2016-11-22: Small fix
