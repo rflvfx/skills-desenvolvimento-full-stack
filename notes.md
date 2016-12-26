@@ -14,3 +14,4 @@
 - 2015-09-14: Expand section
 - 2015-08-28: Expand section
 - 2015-02-13: Refine text
+- 2016-12-26: Small fix
