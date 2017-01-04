@@ -148,3 +148,4 @@
 - 2017-11-16: Update notes
 - 2017-02-03: Fix example
 - 2017-10-25: Small fix
+- 2017-01-04: Add detail
