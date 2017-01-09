@@ -152,3 +152,4 @@
 - 2017-11-15: Review content
 - 2017-03-26: Add note
 - 2017-04-19: Improve docs
+- 2017-01-09: Minor update
