@@ -116,3 +116,4 @@
 - 2016-06-27: Typo fix
 - 2016-09-17: Update notes
 - 2017-09-17: Refine text
+- 2017-01-13: Update guide
