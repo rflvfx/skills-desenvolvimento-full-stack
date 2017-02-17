@@ -34,3 +34,4 @@
 - 2017-08-11: Add note
 - 2017-03-27: Review content
 - 2017-02-05: Expand section
+- 2017-02-17: Clarify section
