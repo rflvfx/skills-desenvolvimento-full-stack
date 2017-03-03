@@ -131,3 +131,4 @@
 - 2017-07-16: Typo fix
 - 2017-08-18: Add detail
 - 2017-03-23: Clarify section
+- 2017-03-03: Add note
