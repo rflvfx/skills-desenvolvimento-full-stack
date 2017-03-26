@@ -150,3 +150,4 @@
 - 2017-10-25: Small fix
 - 2017-01-04: Add detail
 - 2017-11-15: Review content
+- 2017-03-26: Add note
