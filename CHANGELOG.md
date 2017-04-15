@@ -135,3 +135,4 @@
 - 2017-02-04: Small fix
 - 2017-05-07: Clarify section
 - 2017-07-22: Small fix
+- 2017-04-15: Refine text
