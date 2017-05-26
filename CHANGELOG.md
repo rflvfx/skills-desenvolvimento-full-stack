@@ -7,3 +7,4 @@
 - 2016-08-28: Review csrf defense section
 - 2016-09-03: Update file uploads reference
 - 2016-09-25: Add background jobs notes
+- 2017-05-26: Expand email delivery docs
