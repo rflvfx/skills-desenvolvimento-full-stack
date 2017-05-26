@@ -137,3 +137,4 @@
 - 2017-07-22: Small fix
 - 2017-04-15: Refine text
 - 2017-01-13: Clarify section
+- 2017-05-26: Clarify section
