@@ -139,3 +139,4 @@
 - 2017-01-13: Clarify section
 - 2017-05-26: Clarify section
 - 2017-06-22: Small fix
+- 2017-06-15: Review content
