@@ -142,3 +142,4 @@
 - 2017-06-15: Review content
 - 2017-03-17: Polish docs
 - 2017-05-22: Add note
+- 2017-06-21: Typo fix
