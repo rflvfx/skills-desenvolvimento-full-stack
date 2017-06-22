@@ -123,3 +123,4 @@
 - 2017-07-23: Expand section
 - 2017-10-20: Update notes
 - 2017-10-11: Clarify section
+- 2017-06-22: Expand section
