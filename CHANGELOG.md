@@ -8,3 +8,4 @@
 - 2016-09-03: Update file uploads reference
 - 2016-09-25: Add background jobs notes
 - 2017-05-26: Expand email delivery docs
+- 2017-07-13: Improve audit logging coverage
