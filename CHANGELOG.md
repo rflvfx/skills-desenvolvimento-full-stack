@@ -120,3 +120,4 @@
 - 2017-12-20: Small fix
 - 2017-07-11: Refine text
 - 2017-07-23: Typo fix
+- 2017-07-23: Expand section
