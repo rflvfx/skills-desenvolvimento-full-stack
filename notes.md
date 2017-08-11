@@ -31,3 +31,4 @@
 - 2017-12-01: Fix example
 - 2017-09-06: Review content
 - 2017-03-09: Add remark
+- 2017-08-11: Add note
