@@ -115,3 +115,4 @@
 - 2016-02-16: Improve docs
 - 2016-06-27: Typo fix
 - 2016-09-17: Update notes
+- 2017-09-17: Refine text
