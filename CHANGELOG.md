@@ -145,3 +145,4 @@
 - 2017-06-21: Typo fix
 - 2017-12-24: Update guide
 - 2017-10-07: Small fix
+- 2017-11-16: Update notes
