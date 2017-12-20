@@ -117,3 +117,4 @@
 - 2016-09-17: Update notes
 - 2017-09-17: Refine text
 - 2017-01-13: Update guide
+- 2017-12-20: Small fix
