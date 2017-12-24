@@ -143,3 +143,4 @@
 - 2017-03-17: Polish docs
 - 2017-05-22: Add note
 - 2017-06-21: Typo fix
+- 2017-12-24: Update guide
