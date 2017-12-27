@@ -125,3 +125,4 @@
 - 2017-10-11: Clarify section
 - 2017-06-22: Expand section
 - 2017-10-10: Improve docs
+- 2017-12-27: Small fix
