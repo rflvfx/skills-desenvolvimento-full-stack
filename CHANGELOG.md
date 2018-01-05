@@ -171,3 +171,4 @@
 - 2018-06-02: Small fix
 - 2018-04-18: Add remark
 - 2018-01-05: Add note
+- 2018-01-05: Clarify section
