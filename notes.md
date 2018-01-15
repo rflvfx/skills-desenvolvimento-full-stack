@@ -40,3 +40,4 @@
 - 2017-01-16: Add note
 - 2017-09-12: Expand section
 - 2017-04-03: Improve docs
+- 2018-01-15: Add note
