@@ -177,3 +177,4 @@
 - 2018-05-22: Review content
 - 2018-01-28: Update guide
 - 2018-10-17: Update guide
+- 2018-01-25: Update notes
