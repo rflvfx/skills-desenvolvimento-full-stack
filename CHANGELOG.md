@@ -175,3 +175,4 @@
 - 2018-11-02: Fix example
 - 2018-11-11: Update guide
 - 2018-05-22: Review content
+- 2018-01-28: Update guide
