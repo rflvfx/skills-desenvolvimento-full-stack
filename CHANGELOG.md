@@ -190,3 +190,4 @@
 - 2018-11-26: Typo fix
 - 2018-07-08: Clarify section
 - 2018-04-01: Update notes
+- 2018-02-17: Add note
