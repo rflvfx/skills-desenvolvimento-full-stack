@@ -159,3 +159,4 @@
 - 2017-12-05: Improve docs
 - 2017-05-20: Adjust content
 - 2018-06-12: Minor update
+- 2018-02-22: Update notes
