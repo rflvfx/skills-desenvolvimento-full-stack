@@ -42,3 +42,4 @@
 - 2017-04-03: Improve docs
 - 2018-01-15: Add note
 - 2018-08-28: Add detail
+- 2018-03-25: Polish docs
