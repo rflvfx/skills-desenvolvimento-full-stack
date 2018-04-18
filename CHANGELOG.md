@@ -169,3 +169,4 @@
 - 2018-11-05: Polish docs
 - 2018-06-28: Typo fix
 - 2018-06-02: Small fix
+- 2018-04-18: Add remark
