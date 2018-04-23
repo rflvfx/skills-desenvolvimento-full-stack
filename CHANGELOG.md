@@ -185,3 +185,4 @@
 - 2018-09-04: Update guide
 - 2018-04-19: Adjust content
 - 2018-05-07: Refine text
+- 2018-04-23: Add note
