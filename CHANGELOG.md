@@ -184,3 +184,4 @@
 - 2018-12-18: Improve docs
 - 2018-09-04: Update guide
 - 2018-04-19: Adjust content
+- 2018-05-07: Refine text
