@@ -44,3 +44,4 @@
 - 2018-08-28: Add detail
 - 2018-03-25: Polish docs
 - 2018-12-13: Small fix
+- 2018-05-23: Add detail
