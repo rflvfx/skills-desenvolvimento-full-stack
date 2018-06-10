@@ -163,3 +163,4 @@
 - 2018-07-03: Update guide
 - 2018-12-19: Add remark
 - 2018-08-18: Refine text
+- 2018-06-10: Polish docs
