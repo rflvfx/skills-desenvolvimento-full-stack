@@ -10,3 +10,4 @@
 - 2017-05-26: Expand email delivery docs
 - 2017-07-13: Improve audit logging coverage
 - 2017-08-20: Add cache layers notes
+- 2018-07-09: Expand error tracking docs
