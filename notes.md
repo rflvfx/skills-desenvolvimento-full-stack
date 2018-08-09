@@ -53,3 +53,4 @@
 - 2018-10-20: Add remark
 - 2018-10-03: Small fix
 - 2018-10-10: Review content
+- 2018-08-09: Expand section
