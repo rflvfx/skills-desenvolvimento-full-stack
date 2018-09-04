@@ -182,3 +182,4 @@
 - 2018-12-06: Fix example
 - 2018-10-07: Polish docs
 - 2018-12-18: Improve docs
+- 2018-09-04: Update guide
