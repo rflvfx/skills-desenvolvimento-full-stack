@@ -51,3 +51,4 @@
 - 2018-03-20: Expand section
 - 2018-03-03: Fix example
 - 2018-10-20: Add remark
+- 2018-10-03: Small fix
