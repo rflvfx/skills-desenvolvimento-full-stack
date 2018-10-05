@@ -12,3 +12,4 @@
 - 2017-08-20: Add cache layers notes
 - 2018-07-09: Expand error tracking docs
 - 2018-09-15: Refine release notes guide
+- 2018-10-05: Improve monorepo layout coverage
