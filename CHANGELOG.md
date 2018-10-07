@@ -180,3 +180,4 @@
 - 2018-01-25: Update notes
 - 2018-08-15: Polish docs
 - 2018-12-06: Fix example
+- 2018-10-07: Polish docs
