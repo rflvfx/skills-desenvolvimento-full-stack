@@ -172,3 +172,4 @@
 - 2018-04-18: Add remark
 - 2018-01-05: Add note
 - 2018-01-05: Clarify section
+- 2018-11-02: Fix example
