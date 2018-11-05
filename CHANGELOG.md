@@ -166,3 +166,4 @@
 - 2018-06-10: Polish docs
 - 2018-12-27: Update notes
 - 2018-02-24: Improve docs
+- 2018-11-05: Polish docs
