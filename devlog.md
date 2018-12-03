@@ -4,3 +4,4 @@
 - 2020-11-02 — Update content
 - 2021-04-05 — Update notes
 - 2021-08-11 — Fix examples
+- 2018-12-03 - Update study notes
