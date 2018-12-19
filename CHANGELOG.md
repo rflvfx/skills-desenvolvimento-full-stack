@@ -161,3 +161,4 @@
 - 2018-06-12: Minor update
 - 2018-02-22: Update notes
 - 2018-07-03: Update guide
+- 2018-12-19: Add remark
