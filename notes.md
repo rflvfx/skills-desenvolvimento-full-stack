@@ -61,3 +61,4 @@
 - 2019-12-05: Review content
 - 2019-01-07: Adjust content
 - 2019-05-19: Refine text
+- 2019-01-01: Clarify section
