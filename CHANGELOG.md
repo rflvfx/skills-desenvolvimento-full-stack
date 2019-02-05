@@ -237,3 +237,4 @@
 - 2019-06-03: Review content
 - 2019-07-17: Polish docs
 - 2019-07-01: Small fix
+- 2019-02-05: Add note
