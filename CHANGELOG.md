@@ -214,3 +214,4 @@
 - 2019-08-17: Expand section
 - 2019-02-01: Adjust content
 - 2019-06-01: Add note
+- 2019-03-04: Small fix
