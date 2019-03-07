@@ -198,3 +198,4 @@
 - 2019-10-03: Polish docs
 - 2019-05-19: Improve docs
 - 2019-05-23: Small fix
+- 2019-03-07: Adjust content
