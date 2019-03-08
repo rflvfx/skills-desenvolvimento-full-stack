@@ -207,3 +207,4 @@
 - 2019-07-27: Typo fix
 - 2019-10-25: Polish docs
 - 2019-10-28: Update guide
+- 2019-03-08: Add detail
