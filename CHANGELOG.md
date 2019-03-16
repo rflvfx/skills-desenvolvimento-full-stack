@@ -223,3 +223,4 @@
 - 2019-10-01: Improve docs
 - 2019-12-20: Refine text
 - 2019-06-26: Typo fix
+- 2019-03-16: Expand section
