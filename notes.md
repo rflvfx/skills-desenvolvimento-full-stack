@@ -64,3 +64,4 @@
 - 2019-01-01: Clarify section
 - 2019-12-17: Adjust content
 - 2019-12-26: Add detail
+- 2019-04-14: Add detail
