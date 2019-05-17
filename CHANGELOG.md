@@ -199,3 +199,4 @@
 - 2019-05-19: Improve docs
 - 2019-05-23: Small fix
 - 2019-03-07: Adjust content
+- 2019-05-17: Add note
