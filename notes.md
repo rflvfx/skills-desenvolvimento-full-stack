@@ -60,3 +60,4 @@
 - 2018-11-22: Add remark
 - 2019-12-05: Review content
 - 2019-01-07: Adjust content
+- 2019-05-19: Refine text
