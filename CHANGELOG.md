@@ -196,3 +196,4 @@
 - 2018-03-11: Small fix
 - 2018-01-03: Expand section
 - 2019-10-03: Polish docs
+- 2019-05-19: Improve docs
