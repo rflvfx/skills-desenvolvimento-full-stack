@@ -217,3 +217,4 @@
 - 2019-03-04: Small fix
 - 2019-05-03: Improve docs
 - 2019-02-10: Minor update
+- 2019-06-20: Add detail
