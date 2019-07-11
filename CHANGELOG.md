@@ -201,3 +201,4 @@
 - 2019-03-07: Adjust content
 - 2019-05-17: Add note
 - 2019-08-10: Refine text
+- 2019-07-11: Expand section
