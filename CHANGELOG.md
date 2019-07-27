@@ -204,3 +204,4 @@
 - 2019-07-11: Expand section
 - 2019-08-13: Adjust content
 - 2019-05-12: Improve docs
+- 2019-07-27: Typo fix
