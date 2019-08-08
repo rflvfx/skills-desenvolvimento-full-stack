@@ -66,3 +66,4 @@
 - 2019-12-26: Add detail
 - 2019-04-14: Add detail
 - 2019-03-03: Review content
+- 2019-08-08: Refine text
