@@ -220,3 +220,4 @@
 - 2019-06-20: Add detail
 - 2019-12-06: Small fix
 - 2019-06-04: Fix example
+- 2019-10-01: Improve docs
