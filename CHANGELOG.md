@@ -195,3 +195,4 @@
 - 2018-05-20: Fix example
 - 2018-03-11: Small fix
 - 2018-01-03: Expand section
+- 2019-10-03: Polish docs
