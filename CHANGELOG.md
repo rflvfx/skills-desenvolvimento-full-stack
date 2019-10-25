@@ -205,3 +205,4 @@
 - 2019-08-13: Adjust content
 - 2019-05-12: Improve docs
 - 2019-07-27: Typo fix
+- 2019-10-25: Polish docs
