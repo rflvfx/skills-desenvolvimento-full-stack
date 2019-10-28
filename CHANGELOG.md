@@ -206,3 +206,4 @@
 - 2019-05-12: Improve docs
 - 2019-07-27: Typo fix
 - 2019-10-25: Polish docs
+- 2019-10-28: Update guide
