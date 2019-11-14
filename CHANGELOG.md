@@ -228,3 +228,4 @@
 - 2019-07-22: Small fix
 - 2019-08-07: Improve docs
 - 2019-05-12: Update notes
+- 2019-11-14: Clarify section
