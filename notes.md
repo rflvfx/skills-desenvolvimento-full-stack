@@ -68,3 +68,4 @@
 - 2019-03-03: Review content
 - 2019-08-08: Refine text
 - 2019-07-21: Clarify section
+- 2019-11-17: Refine text
