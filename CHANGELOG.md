@@ -221,3 +221,4 @@
 - 2019-12-06: Small fix
 - 2019-06-04: Fix example
 - 2019-10-01: Improve docs
+- 2019-12-20: Refine text
