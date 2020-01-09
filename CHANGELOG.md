@@ -251,3 +251,4 @@
 - 2020-05-20: Expand section
 - 2020-10-26: Improve docs
 - 2020-10-01: Clarify section
+- 2020-01-09: Add remark
