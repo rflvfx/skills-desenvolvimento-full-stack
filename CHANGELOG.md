@@ -260,3 +260,4 @@
 - 2020-02-08: Update guide
 - 2020-06-22: Update notes
 - 2020-10-06: Adjust content
+- 2020-01-20: Add note
