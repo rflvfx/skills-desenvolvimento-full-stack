@@ -268,3 +268,4 @@
 - 2020-08-08: Minor update
 - 2020-07-16: Add remark
 - 2020-04-17: Expand section
+- 2020-01-27: Add note
