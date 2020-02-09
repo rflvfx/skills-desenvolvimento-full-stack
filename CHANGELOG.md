@@ -244,3 +244,4 @@
 - 2020-10-25: Refine text
 - 2020-02-13: Review content
 - 2020-04-28: Polish docs
+- 2020-02-09: Fix example
