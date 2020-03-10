@@ -73,3 +73,4 @@
 - 2020-07-25: Typo fix
 - 2020-09-11: Update notes
 - 2020-04-15: Review content
+- 2020-03-10: Clarify section
