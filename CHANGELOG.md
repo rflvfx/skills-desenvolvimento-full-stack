@@ -239,3 +239,4 @@
 - 2019-07-01: Small fix
 - 2019-02-05: Add note
 - 2019-05-13: Review content
+- 2020-04-01: Typo fix
