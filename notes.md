@@ -77,3 +77,4 @@
 - 2020-03-25: Polish docs
 - 2020-07-28: Expand section
 - 2020-07-08: Update notes
+- 2020-04-08: Small fix
