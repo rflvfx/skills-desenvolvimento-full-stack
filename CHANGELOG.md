@@ -248,3 +248,4 @@
 - 2020-01-23: Typo fix
 - 2020-10-25: Fix example
 - 2020-05-14: Fix example
+- 2020-05-20: Expand section
