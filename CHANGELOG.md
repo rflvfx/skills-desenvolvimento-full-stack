@@ -276,3 +276,4 @@
 - 2020-08-22: Refine text
 - 2020-12-25: Expand section
 - 2020-03-01: Polish docs
+- 2020-06-03: Clarify section
