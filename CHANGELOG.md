@@ -254,3 +254,4 @@
 - 2020-01-09: Add remark
 - 2020-07-03: Refine text
 - 2020-08-23: Review content
+- 2020-06-05: Update guide
