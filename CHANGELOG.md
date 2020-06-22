@@ -258,3 +258,4 @@
 - 2020-06-25: Add remark
 - 2020-11-14: Add detail
 - 2020-02-08: Update guide
+- 2020-06-22: Update notes
