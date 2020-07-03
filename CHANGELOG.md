@@ -252,3 +252,4 @@
 - 2020-10-26: Improve docs
 - 2020-10-01: Clarify section
 - 2020-01-09: Add remark
+- 2020-07-03: Refine text
