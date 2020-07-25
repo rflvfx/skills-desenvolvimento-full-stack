@@ -70,3 +70,4 @@
 - 2019-07-21: Clarify section
 - 2019-11-17: Refine text
 - 2020-09-05: Adjust content
+- 2020-07-25: Typo fix
