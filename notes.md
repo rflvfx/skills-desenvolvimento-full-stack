@@ -75,3 +75,4 @@
 - 2020-04-15: Review content
 - 2020-03-10: Clarify section
 - 2020-03-25: Polish docs
+- 2020-07-28: Expand section
