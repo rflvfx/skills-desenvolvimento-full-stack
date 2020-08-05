@@ -16,3 +16,4 @@
 - 2019-02-13: Refine shared types guide
 - 2019-05-26: Improve env parity coverage
 - 2020-02-17: Add csrf defense examples
+- 2020-08-05: Expand file uploads docs
