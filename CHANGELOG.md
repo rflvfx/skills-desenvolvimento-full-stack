@@ -265,3 +265,4 @@
 - 2020-10-10: Small fix
 - 2020-12-10: Review content
 - 2020-12-13: Refine text
+- 2020-08-08: Minor update
