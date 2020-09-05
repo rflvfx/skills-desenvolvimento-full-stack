@@ -69,3 +69,4 @@
 - 2019-08-08: Refine text
 - 2019-07-21: Clarify section
 - 2019-11-17: Refine text
+- 2020-09-05: Adjust content
