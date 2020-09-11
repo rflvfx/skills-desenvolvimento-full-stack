@@ -71,3 +71,4 @@
 - 2019-11-17: Refine text
 - 2020-09-05: Adjust content
 - 2020-07-25: Typo fix
+- 2020-09-11: Update notes
