@@ -259,3 +259,4 @@
 - 2020-11-14: Add detail
 - 2020-02-08: Update guide
 - 2020-06-22: Update notes
+- 2020-10-06: Adjust content
