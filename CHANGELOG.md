@@ -272,3 +272,4 @@
 - 2020-03-21: Refine text
 - 2020-06-11: Add detail
 - 2020-08-04: Refine text
+- 2020-10-07: Minor update
