@@ -262,3 +262,4 @@
 - 2020-10-06: Adjust content
 - 2020-01-20: Add note
 - 2020-04-19: Update notes
+- 2020-10-10: Small fix
