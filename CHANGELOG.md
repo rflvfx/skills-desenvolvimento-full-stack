@@ -278,3 +278,4 @@
 - 2020-03-01: Polish docs
 - 2020-06-03: Clarify section
 - 2020-12-03: Add remark
+- 2020-10-19: Add remark
