@@ -1,3 +1,4 @@
 - 2016-08-04 — Fix examples
 - 2020-02-28 — Small fixes
 - 2020-05-12 — Refine exercises
+- 2020-11-02 — Update content
