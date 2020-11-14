@@ -256,3 +256,4 @@
 - 2020-08-23: Review content
 - 2020-06-05: Update guide
 - 2020-06-25: Add remark
+- 2020-11-14: Add detail
