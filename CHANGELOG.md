@@ -264,3 +264,4 @@
 - 2020-04-19: Update notes
 - 2020-10-10: Small fix
 - 2020-12-10: Review content
+- 2020-12-13: Refine text
