@@ -274,3 +274,4 @@
 - 2020-08-04: Refine text
 - 2020-10-07: Minor update
 - 2020-08-22: Refine text
+- 2020-12-25: Expand section
