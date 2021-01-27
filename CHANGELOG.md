@@ -17,3 +17,4 @@
 - 2019-05-26: Improve env parity coverage
 - 2020-02-17: Add csrf defense examples
 - 2020-08-05: Expand file uploads docs
+- 2021-01-27: Refine audit logging guide
