@@ -18,3 +18,4 @@
 - 2020-02-17: Add csrf defense examples
 - 2020-08-05: Expand file uploads docs
 - 2021-01-27: Refine audit logging guide
+- 2021-02-11: Expand rate limits docs
