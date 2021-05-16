@@ -290,3 +290,4 @@
 - 2021-05-16: Typo fix
 - 2021-07-15: Polish docs
 - 2021-04-28: Polish docs
+- 2021-05-16: Add detail
