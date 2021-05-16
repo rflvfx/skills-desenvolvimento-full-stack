@@ -287,3 +287,4 @@
 - 2021-05-08: Add detail
 - 2021-04-25: Update guide
 - 2021-10-22: Expand section
+- 2021-05-16: Typo fix
