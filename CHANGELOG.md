@@ -288,3 +288,4 @@
 - 2021-04-25: Update guide
 - 2021-10-22: Expand section
 - 2021-05-16: Typo fix
+- 2021-07-15: Polish docs
