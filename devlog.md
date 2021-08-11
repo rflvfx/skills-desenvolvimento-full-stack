@@ -3,3 +3,4 @@
 - 2020-05-12 — Refine exercises
 - 2020-11-02 — Update content
 - 2021-04-05 — Update notes
+- 2021-08-11 — Fix examples
