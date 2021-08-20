@@ -84,3 +84,4 @@
 - 2020-04-08: Expand section
 - 2021-05-08: Minor update
 - 2021-11-27: Update notes
+- 2021-08-20: Refine text
