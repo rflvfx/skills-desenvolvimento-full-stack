@@ -303,3 +303,4 @@
 - 2021-10-22: Clarify section
 - 2021-04-01: Refine text
 - 2021-04-02: Fix example
+- 2021-09-12: Add remark
