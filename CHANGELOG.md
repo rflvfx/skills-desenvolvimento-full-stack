@@ -298,3 +298,4 @@
 - 2021-07-06: Add detail
 - 2021-09-08: Fix example
 - 2021-02-15: Small fix
+- 2021-09-14: Update notes
