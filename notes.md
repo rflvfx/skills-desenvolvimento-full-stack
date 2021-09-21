@@ -90,3 +90,4 @@
 - 2021-04-14: Add detail
 - 2021-03-11: Refine text
 - 2021-03-09: Improve docs
+- 2021-09-21: Add note
