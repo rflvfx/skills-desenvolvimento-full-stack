@@ -95,3 +95,4 @@
 - 2021-07-26: Improve docs
 - 2021-12-20: Fix example
 - 2021-01-02: Update notes
+- 2021-10-06: Fix example
