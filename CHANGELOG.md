@@ -304,3 +304,4 @@
 - 2021-04-01: Refine text
 - 2021-04-02: Fix example
 - 2021-09-12: Add remark
+- 2021-10-25: Polish docs
