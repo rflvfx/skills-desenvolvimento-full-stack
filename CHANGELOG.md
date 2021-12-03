@@ -307,3 +307,4 @@
 - 2021-10-25: Polish docs
 - 2021-07-09: Refine text
 - 2021-07-10: Polish docs
+- 2021-12-03: Small fix
