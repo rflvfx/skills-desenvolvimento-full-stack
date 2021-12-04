@@ -291,3 +291,4 @@
 - 2021-07-15: Polish docs
 - 2021-04-28: Polish docs
 - 2021-05-16: Add detail
+- 2021-12-04: Fix example
