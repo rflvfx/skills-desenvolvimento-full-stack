@@ -93,3 +93,4 @@
 - 2021-09-21: Add note
 - 2021-02-27: Typo fix
 - 2021-07-26: Improve docs
+- 2021-12-20: Fix example
