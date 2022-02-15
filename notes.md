@@ -109,3 +109,4 @@
 - 2022-07-06: Update notes
 - 2022-03-22: Update guide
 - 2022-12-27: Polish docs
+- 2022-02-15: Clarify section
