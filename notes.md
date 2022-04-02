@@ -102,3 +102,4 @@
 - 2022-12-24: Update guide
 - 2022-07-18: Clarify section
 - 2022-02-25: Polish docs
+- 2022-04-02: Fix example
