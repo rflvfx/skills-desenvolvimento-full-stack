@@ -319,3 +319,4 @@
 - 2022-06-09: Minor update
 - 2022-07-24: Polish docs
 - 2022-07-10: Add remark
+- 2022-06-20: Clarify section
