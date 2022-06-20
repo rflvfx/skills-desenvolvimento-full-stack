@@ -336,3 +336,4 @@
 - 2022-06-01: Review content
 - 2022-07-01: Typo fix
 - 2022-03-01: Refine text
+- 2022-06-20: Add note
