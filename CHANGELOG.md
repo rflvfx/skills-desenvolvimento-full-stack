@@ -349,3 +349,4 @@
 - 2022-11-19: Improve docs
 - 2022-08-18: Typo fix
 - 2022-07-11: Adjust content
+- 2022-07-06: Small fix
