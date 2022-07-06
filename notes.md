@@ -106,3 +106,4 @@
 - 2022-07-10: Add detail
 - 2022-05-05: Add remark
 - 2022-02-21: Refine text
+- 2022-07-06: Update notes
