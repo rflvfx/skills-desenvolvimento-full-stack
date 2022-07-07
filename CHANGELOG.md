@@ -331,3 +331,4 @@
 - 2022-11-20: Expand section
 - 2022-10-22: Minor update
 - 2022-09-05: Improve docs
+- 2022-07-07: Small fix
