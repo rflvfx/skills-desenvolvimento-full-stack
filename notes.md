@@ -103,3 +103,4 @@
 - 2022-07-18: Clarify section
 - 2022-02-25: Polish docs
 - 2022-04-02: Fix example
+- 2022-07-10: Add detail
