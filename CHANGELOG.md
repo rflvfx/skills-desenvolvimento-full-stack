@@ -20,3 +20,4 @@
 - 2021-01-27: Refine audit logging guide
 - 2021-02-11: Expand rate limits docs
 - 2021-07-08: Expand cache layers docs
+- 2022-09-06: Update error tracking reference
