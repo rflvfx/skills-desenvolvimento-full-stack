@@ -340,3 +340,4 @@
 - 2022-02-25: Improve docs
 - 2022-12-08: Improve docs
 - 2022-11-07: Refine text
+- 2022-11-03: Fix example
