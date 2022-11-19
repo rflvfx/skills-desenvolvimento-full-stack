@@ -346,3 +346,4 @@
 - 2022-05-14: Review content
 - 2022-03-28: Clarify section
 - 2022-06-08: Typo fix
+- 2022-11-19: Improve docs
