@@ -350,3 +350,4 @@
 - 2022-08-18: Typo fix
 - 2022-07-11: Adjust content
 - 2022-07-06: Small fix
+- 2022-11-23: Typo fix
