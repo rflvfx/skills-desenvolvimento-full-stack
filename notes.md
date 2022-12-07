@@ -114,3 +114,4 @@
 - 2022-11-18: Fix example
 - 2022-04-07: Adjust content
 - 2022-12-06: Add remark
+- 2022-12-07: Add detail
