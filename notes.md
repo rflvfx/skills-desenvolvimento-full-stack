@@ -97,3 +97,4 @@
 - 2021-01-02: Update notes
 - 2021-10-06: Fix example
 - 2022-08-09: Refine text
+- 2022-12-18: Expand section
