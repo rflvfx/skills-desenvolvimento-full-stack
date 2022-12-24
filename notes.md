@@ -99,3 +99,4 @@
 - 2022-08-09: Refine text
 - 2022-12-18: Expand section
 - 2022-11-14: Update guide
+- 2022-12-24: Update guide
