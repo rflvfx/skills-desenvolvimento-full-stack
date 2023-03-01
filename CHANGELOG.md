@@ -366,3 +366,4 @@
 - 2023-12-19: Clarify section
 - 2023-11-04: Adjust content
 - 2023-01-15: Small fix
+- 2023-03-01: Polish docs
