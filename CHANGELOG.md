@@ -23,3 +23,4 @@
 - 2022-09-06: Update error tracking reference
 - 2022-12-10: Review release notes section
 - 2022-12-18: Improve monorepo layout coverage
+- 2023-03-14: Add env parity examples
