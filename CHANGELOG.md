@@ -354,3 +354,4 @@
 - 2022-06-19: Update guide
 - 2022-05-13: Small fix
 - 2023-04-26: Review content
+- 2023-06-12: Add note
