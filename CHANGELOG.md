@@ -387,3 +387,4 @@
 - 2023-04-18: Improve docs
 - 2023-08-12: Add note
 - 2023-05-14: Improve docs
+- 2023-06-28: Clarify section
