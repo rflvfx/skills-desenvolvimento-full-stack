@@ -127,3 +127,4 @@
 - 2023-05-11: Small fix
 - 2023-06-04: Typo fix
 - 2023-01-04: Typo fix
+- 2023-07-02: Add note
