@@ -385,3 +385,4 @@
 - 2023-11-13: Update guide
 - 2023-06-28: Update guide
 - 2023-04-18: Improve docs
+- 2023-08-12: Add note
