@@ -122,3 +122,4 @@
 - 2023-10-08: Minor update
 - 2023-03-16: Clarify section
 - 2023-03-24: Expand section
+- 2023-09-07: Typo fix
