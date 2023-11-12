@@ -380,3 +380,4 @@
 - 2023-10-19: Minor update
 - 2023-09-10: Add remark
 - 2023-04-02: Typo fix
+- 2023-11-12: Refine text
