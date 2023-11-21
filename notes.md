@@ -118,3 +118,4 @@
 - 2023-12-13: Typo fix
 - 2023-05-09: Typo fix
 - 2023-02-03: Adjust content
+- 2023-11-21: Typo fix
