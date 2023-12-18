@@ -388,3 +388,4 @@
 - 2023-08-12: Add note
 - 2023-05-14: Improve docs
 - 2023-06-28: Clarify section
+- 2023-12-18: Adjust content
