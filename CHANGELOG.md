@@ -363,3 +363,4 @@
 - 2023-10-01: Polish docs
 - 2023-06-13: Expand section
 - 2023-03-05: Polish docs
+- 2023-12-19: Clarify section
