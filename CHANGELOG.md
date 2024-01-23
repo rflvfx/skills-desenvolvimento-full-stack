@@ -421,3 +421,4 @@
 - 2024-10-01: Fix example
 - 2024-08-06: Expand section
 - 2024-02-05: Minor update
+- 2024-01-23: Small fix
