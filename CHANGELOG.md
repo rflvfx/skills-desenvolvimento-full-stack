@@ -413,3 +413,4 @@
 - 2024-10-14: Add note
 - 2024-05-05: Small fix
 - 2024-06-10: Update notes
+- 2024-02-02: Polish docs
