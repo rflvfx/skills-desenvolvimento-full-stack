@@ -415,3 +415,4 @@
 - 2024-06-10: Update notes
 - 2024-02-02: Polish docs
 - 2024-04-07: Add remark
+- 2024-03-20: Typo fix
