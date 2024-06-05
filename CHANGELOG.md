@@ -26,3 +26,4 @@
 - 2023-03-14: Add env parity examples
 - 2023-09-17: Add request tracing examples
 - 2024-03-20: Add session strategy notes
+- 2024-06-05: Improve csrf defense coverage
