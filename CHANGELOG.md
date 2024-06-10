@@ -425,3 +425,4 @@
 - 2024-10-19: Update guide
 - 2024-09-23: Polish docs
 - 2024-05-18: Add note
+- 2024-06-10: Add detail
