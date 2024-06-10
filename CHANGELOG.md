@@ -412,3 +412,4 @@
 - 2024-10-21: Typo fix
 - 2024-10-14: Add note
 - 2024-05-05: Small fix
+- 2024-06-10: Update notes
