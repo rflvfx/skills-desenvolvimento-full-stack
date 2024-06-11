@@ -145,3 +145,4 @@
 - 2024-07-11: Typo fix
 - 2024-01-24: Adjust content
 - 2024-03-17: Small fix
+- 2024-06-11: Fix example
