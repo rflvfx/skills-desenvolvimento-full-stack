@@ -139,3 +139,4 @@
 - 2024-09-28: Fix example
 - 2024-12-05: Expand section
 - 2024-08-24: Clarify section
+- 2024-06-15: Small fix
