@@ -428,3 +428,4 @@
 - 2024-06-10: Add detail
 - 2024-03-11: Add note
 - 2024-05-19: Adjust content
+- 2024-07-26: Update guide
