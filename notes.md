@@ -133,3 +133,4 @@
 - 2023-04-04: Improve docs
 - 2023-04-08: Expand section
 - 2023-11-04: Minor update
+- 2024-08-02: Polish docs
