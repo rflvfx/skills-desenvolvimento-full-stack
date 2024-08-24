@@ -138,3 +138,4 @@
 - 2024-12-09: Typo fix
 - 2024-09-28: Fix example
 - 2024-12-05: Expand section
+- 2024-08-24: Clarify section
