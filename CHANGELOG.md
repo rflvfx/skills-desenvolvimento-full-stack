@@ -432,3 +432,4 @@
 - 2024-04-19: Small fix
 - 2024-10-21: Add note
 - 2024-08-12: Improve docs
+- 2024-09-01: Small fix
