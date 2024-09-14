@@ -403,3 +403,4 @@
 - 2024-03-23: Small fix
 - 2024-10-01: Expand section
 - 2024-03-12: Polish docs
+- 2024-09-14: Update guide
