@@ -401,3 +401,4 @@
 - 2024-08-21: Review content
 - 2024-09-15: Small fix
 - 2024-03-23: Small fix
+- 2024-10-01: Expand section
