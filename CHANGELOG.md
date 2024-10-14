@@ -410,3 +410,4 @@
 - 2024-07-06: Small fix
 - 2024-11-17: Review content
 - 2024-10-21: Typo fix
+- 2024-10-14: Add note
