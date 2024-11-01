@@ -397,3 +397,4 @@
 - 2024-06-11: Add note
 - 2024-07-12: Clarify section
 - 2024-02-21: Review content
+- 2024-11-01: Add detail
