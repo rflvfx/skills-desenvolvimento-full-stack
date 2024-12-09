@@ -135,3 +135,4 @@
 - 2023-11-04: Minor update
 - 2024-08-02: Polish docs
 - 2024-06-05: Review content
+- 2024-12-09: Typo fix
