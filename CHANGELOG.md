@@ -405,3 +405,4 @@
 - 2024-03-12: Polish docs
 - 2024-09-14: Update guide
 - 2024-05-06: Update notes
+- 2024-12-24: Typo fix
