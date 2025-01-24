@@ -152,3 +152,4 @@
 - 2025-06-22: Add detail
 - 2025-10-22: Clarify section
 - 2025-10-19: Small fix
+- 2025-01-24: Polish docs
