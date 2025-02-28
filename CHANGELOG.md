@@ -438,3 +438,4 @@
 - 2025-02-13: Minor update
 - 2025-07-06: Small fix
 - 2025-02-09: Improve docs
+- 2025-02-28: Adjust content
