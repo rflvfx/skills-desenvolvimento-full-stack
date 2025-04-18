@@ -28,3 +28,4 @@
 - 2024-03-20: Add session strategy notes
 - 2024-06-05: Improve csrf defense coverage
 - 2025-02-23: Update email delivery reference
+- 2025-04-18: Update audit logging reference
