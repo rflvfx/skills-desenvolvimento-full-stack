@@ -155,3 +155,4 @@
 - 2025-01-24: Polish docs
 - 2025-03-24: Polish docs
 - 2025-02-02: Update notes
+- 2025-06-05: Polish docs
