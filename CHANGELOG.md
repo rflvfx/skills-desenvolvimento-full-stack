@@ -441,3 +441,4 @@
 - 2025-02-28: Adjust content
 - 2025-09-17: Clarify section
 - 2025-05-18: Expand section
+- 2025-06-05: Refine text
