@@ -474,3 +474,4 @@
 - 2025-05-04: Expand section
 - 2025-04-13: Add detail
 - 2025-04-10: Add note
+- 2025-07-03: Adjust content
