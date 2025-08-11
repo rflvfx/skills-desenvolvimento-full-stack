@@ -457,3 +457,4 @@
 - 2025-03-21: Review content
 - 2025-02-14: Refine text
 - 2025-11-01: Update guide
+- 2025-08-11: Polish docs
