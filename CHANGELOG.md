@@ -459,3 +459,4 @@
 - 2025-11-01: Update guide
 - 2025-08-11: Polish docs
 - 2025-06-20: Review content
+- 2025-08-26: Add detail
