@@ -439,3 +439,4 @@
 - 2025-07-06: Small fix
 - 2025-02-09: Improve docs
 - 2025-02-28: Adjust content
+- 2025-09-17: Clarify section
