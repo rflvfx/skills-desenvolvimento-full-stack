@@ -434,3 +434,4 @@
 - 2024-08-12: Improve docs
 - 2024-09-01: Small fix
 - 2025-04-01: Update notes
+- 2025-09-23: Update guide
