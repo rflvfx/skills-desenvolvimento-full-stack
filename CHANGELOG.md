@@ -450,3 +450,4 @@
 - 2025-06-15: Update notes
 - 2025-12-10: Improve docs
 - 2025-06-12: Improve docs
+- 2025-09-23: Refine text
