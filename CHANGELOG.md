@@ -29,3 +29,4 @@
 - 2024-06-05: Improve csrf defense coverage
 - 2025-02-23: Update email delivery reference
 - 2025-04-18: Update audit logging reference
+- 2025-10-05: Document cache layers
