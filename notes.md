@@ -151,3 +151,4 @@
 - 2025-09-03: Review content
 - 2025-06-22: Add detail
 - 2025-10-22: Clarify section
+- 2025-10-19: Small fix
