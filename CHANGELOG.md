@@ -466,3 +466,4 @@
 - 2025-03-08: Expand section
 - 2025-03-04: Add remark
 - 2025-10-24: Typo fix
+- 2025-11-03: Update notes
