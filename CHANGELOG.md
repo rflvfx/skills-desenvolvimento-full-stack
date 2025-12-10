@@ -448,3 +448,4 @@
 - 2025-01-17: Expand section
 - 2025-12-26: Update notes
 - 2025-06-15: Update notes
+- 2025-12-10: Improve docs
