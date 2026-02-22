@@ -482,3 +482,4 @@
 - 2026-04-10: Improve docs
 - 2026-11-27: Add detail
 - 2026-02-07: Add remark
+- 2026-02-22: Fix example
