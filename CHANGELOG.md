@@ -486,3 +486,4 @@
 - 2026-11-13: Update guide
 - 2026-03-17: Review content
 - 2026-01-19: Add detail
+- 2026-03-27: Clarify section
