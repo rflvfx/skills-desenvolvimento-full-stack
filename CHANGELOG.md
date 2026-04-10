@@ -479,3 +479,4 @@
 - 2025-07-07: Improve docs
 - 2025-06-25: Polish docs
 - 2026-03-23: Typo fix
+- 2026-04-10: Improve docs
