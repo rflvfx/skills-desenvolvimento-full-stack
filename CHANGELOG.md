@@ -495,3 +495,4 @@
 - 2026-03-23: Improve docs
 - 2026-08-05: Small fix
 - 2026-11-08: Update guide
+- 2026-05-12: Typo fix
