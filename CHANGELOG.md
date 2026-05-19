@@ -508,3 +508,4 @@
 - 2026-09-28: Review content
 - 2026-11-16: Adjust content
 - 2026-01-16: Refine text
+- 2026-05-19: Expand section
