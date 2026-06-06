@@ -168,3 +168,4 @@
 - 2026-01-18: Add detail
 - 2026-04-04: Improve docs
 - 2026-09-12: Fix example
+- 2026-06-06: Update notes
