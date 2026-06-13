@@ -504,3 +504,4 @@
 - 2026-09-23: Minor update
 - 2026-08-06: Update guide
 - 2026-05-15: Expand section
+- 2026-06-13: Adjust content
