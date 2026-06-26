@@ -499,3 +499,4 @@
 - 2026-10-15: Adjust content
 - 2026-06-16: Expand section
 - 2026-02-25: Review content
+- 2026-06-26: Improve docs
