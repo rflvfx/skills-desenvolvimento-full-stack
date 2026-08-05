@@ -493,3 +493,4 @@
 - 2026-01-15: Improve docs
 - 2026-12-27: Add detail
 - 2026-03-23: Improve docs
+- 2026-08-05: Small fix
