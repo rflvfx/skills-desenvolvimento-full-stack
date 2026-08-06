@@ -502,3 +502,4 @@
 - 2026-06-26: Improve docs
 - 2026-10-09: Adjust content
 - 2026-09-23: Minor update
+- 2026-08-06: Update guide
