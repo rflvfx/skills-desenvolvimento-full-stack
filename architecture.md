@@ -9,3 +9,9 @@
 - Auth: JWT + refresh tokens
 - DB: MySQL/Postgres, migrations versioned
 - Deploy: Docker Compose (dev) -> CI/CD pipeline
+
+## Evolution Notes (2026)
+
+- added observability: structured logs + request tracing
+- background jobs moved to a queue instead of cron in the API process
+- considering edge caching for public GET endpoints
