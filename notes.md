@@ -167,3 +167,4 @@
 - 2026-03-25: Review content
 - 2026-01-18: Add detail
 - 2026-04-04: Improve docs
+- 2026-09-12: Fix example
