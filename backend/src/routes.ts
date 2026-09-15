@@ -4,6 +4,8 @@ import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
 import { prisma } from './prisma';
 import { auth, AuthRequest } from './auth';
+import { getCache, setCache, delCache, delCachePattern } from './cache';
+import { emitTransaction } from './socket';
 const router = Router();
 
 function parseMonth(month: string) {
@@ -90,13 +92,21 @@ router.post('/transactions', [
       description,
       userId: req.user.userId,
       categoryId: parseInt(categoryId)
-    }
+    },
+    include: { category: { select: { name: true, color: true } } }
   });
+  await delCachePattern(`transactions:${req.user.userId}:*`);
+  await delCachePattern(`dashboard:${req.user.userId}:*`);
+  emitTransaction(req.user.userId, transaction);
   res.status(201).json(transaction);
 });
 
 router.get('/transactions', auth, async (req: AuthRequest, res: Response) => {
   const { month, type } = req.query;
+  const cacheKey = `transactions:${req.user.userId}:${month || 'all'}:${type || 'all'}`;
+  const cached = await getCache(cacheKey);
+  if (cached) return res.json(cached);
+
   const where: any = { userId: req.user.userId };
   if (type) where.type = type;
   if (month) {
@@ -107,11 +117,16 @@ router.get('/transactions', auth, async (req: AuthRequest, res: Response) => {
     orderBy: { date: 'desc' },
     include: { category: { select: { name: true, color: true } } }
   });
+  await setCache(cacheKey, transactions, 60);
   res.json(transactions);
 });
 
 router.get('/dashboard', auth, async (req: AuthRequest, res: Response) => {
   const { month } = req.query;
+  const cacheKey = `dashboard:${req.user.userId}:${month || 'current'}`;
+  const cached = await getCache(cacheKey);
+  if (cached) return res.json(cached);
+
   const dateFilter = month ? parseMonth(month as string) : parseMonth(new Date().toISOString().slice(0, 7));
   const transactions = await prisma.transaction.findMany({
     where: {
@@ -122,7 +137,9 @@ router.get('/dashboard', auth, async (req: AuthRequest, res: Response) => {
   const income = transactions.filter(t => t.type === 'INCOME').reduce((s, t) => s + Number(t.amount), 0);
   const expense = transactions.filter(t => t.type === 'EXPENSE').reduce((s, t) => s + Number(t.amount), 0);
   const balance = income - expense;
-  res.json({ income, expense, balance, transactions });
+  const result = { income, expense, balance, transactions };
+  await setCache(cacheKey, result, 120);
+  res.json(result);
 });
 
 router.get('/reports/by-category', auth, async (req: AuthRequest, res: Response) => {
