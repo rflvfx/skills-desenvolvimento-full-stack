@@ -55,3 +55,13 @@ model Transaction {
   createdAt     DateTime        @default(now())
   updatedAt     DateTime        @updatedAt
 }
+
+model AuditLog {
+  id          Int      @id @default(autoincrement())
+  action      String
+  resource    String
+  userId      Int?
+  metadata    String?
+  ip          String?
+  createdAt   DateTime @default(now())
+}

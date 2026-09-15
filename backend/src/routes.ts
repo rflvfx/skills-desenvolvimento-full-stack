@@ -4,9 +4,15 @@ import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
 import { prisma } from './prisma';
 import { auth, AuthRequest } from './auth';
-import { startOfMonth, endOfMonth } from 'date-fns';
-
 const router = Router();
+
+function parseMonth(month: string) {
+  const [year, m] = month.split('-').map(Number);
+  return {
+    gte: new Date(Date.UTC(year, m - 1, 1, 0, 0, 0, 0)),
+    lte: new Date(Date.UTC(year, m, 0, 23, 59, 59, 999))
+  };
+}
 
 function generateTokens(user: any) {
   const access = jwt.sign({ userId: user.id, role: user.role }, process.env.JWT_SECRET || 'secret', { expiresIn: '15m' });
@@ -94,8 +100,7 @@ router.get('/transactions', auth, async (req: AuthRequest, res: Response) => {
   const where: any = { userId: req.user.userId };
   if (type) where.type = type;
   if (month) {
-    const d = new Date(month as string + '-01');
-    where.date = { gte: startOfMonth(d), lte: endOfMonth(d) };
+    where.date = parseMonth(month as string);
   }
   const transactions = await prisma.transaction.findMany({
     where,
@@ -107,11 +112,11 @@ router.get('/transactions', auth, async (req: AuthRequest, res: Response) => {
 
 router.get('/dashboard', auth, async (req: AuthRequest, res: Response) => {
   const { month } = req.query;
-  const d = month ? new Date((month as string) + '-01') : new Date();
+  const dateFilter = month ? parseMonth(month as string) : parseMonth(new Date().toISOString().slice(0, 7));
   const transactions = await prisma.transaction.findMany({
     where: {
       userId: req.user.userId,
-      date: { gte: startOfMonth(d), lte: endOfMonth(d) }
+      date: dateFilter
     }
   });
   const income = transactions.filter(t => t.type === 'INCOME').reduce((s, t) => s + Number(t.amount), 0);
@@ -122,13 +127,13 @@ router.get('/dashboard', auth, async (req: AuthRequest, res: Response) => {
 
 router.get('/reports/by-category', auth, async (req: AuthRequest, res: Response) => {
   const { month } = req.query;
-  const d = month ? new Date((month as string) + '-01') : new Date();
+  const dateFilter = month ? parseMonth(month as string) : parseMonth(new Date().toISOString().slice(0, 7));
   const result = await prisma.transaction.groupBy({
     by: ['categoryId'],
     where: {
       userId: req.user.userId,
       type: 'EXPENSE',
-      date: { gte: startOfMonth(d), lte: endOfMonth(d) }
+      date: dateFilter
     },
     _sum: { amount: true }
   });
