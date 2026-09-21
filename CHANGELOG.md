@@ -489,3 +489,4 @@
 - 2026-03-27: Clarify section
 - 2026-08-28: Small fix
 - 2026-01-22: Add note
+- 2026-09-21: Update notes
