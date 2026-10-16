@@ -1,45 +1,24 @@
-# Finance Pro
+<div align="center">
 
-Sistema completo de gestao financeira pessoal.
+# skills-desenvolvimento-full-stack
 
-## Tecnologias
+**Arquitetura full stack** — auth, deploy, versionamento de API e decisões de design.
 
-- TypeScript (frontend + backend)
-- Node.js + Express
-- PostgreSQL + Prisma ORM
-- JWT com refresh token
-- Redis
-- React + Vite + Recharts
-- Docker + Docker Compose
-- GitHub Actions
-- Swagger/OpenAPI
+</div>
 
-## Funcionalidades
+## 📋 Sobre
 
-- Cadastro e login de usuarios
-- Criacao de categorias
-- Lancamento de receitas e despesas
-- Dashboard com graficos
-- Relatorios por categoria
-- Filtros por mes e tipo
-- API documentada em `/api/docs`
+Documentação de arquitetura de aplicações completas: fluxo de autenticação, guia de deploy, estratégia de versionamento e evolução do sistema.
 
-## Como rodar
+## 📂 Conteúdo
 
-```bash
-docker compose up -d postgres redis
-cd backend
-cp .env.example .env
-npm install
-npx prisma migrate dev
-npm run dev
+- `architecture.md` — visão geral + evolução 2026
+- `auth-flow.md` — JWT + refresh tokens
+- `deployment.md` — pipeline de deploy
+- `api-versioning.md` — estratégia de versões
+- `backend/` / `frontend/` — estrutura da app
+- `docker-compose.yml`
 
-cd ../frontend
-npm install
-npm run dev
-```
+## 🧠 Tópicos cobertos
 
-Acesse:
-- Backend: http://localhost:4000/api
-- Docs: http://localhost:4000/api/docs
-- Frontend: http://localhost:5173
+`architecture` `auth` `JWT` `deployment` `feature flags` `observability` `queues`
